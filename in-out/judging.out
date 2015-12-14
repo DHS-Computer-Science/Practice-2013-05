@@ -1,0 +1,2000 @@
+Case 1:
+xxx
+-oo
+---
+Case 2:
+--o
+x-o
+-xo
+Case 3:
+x--
+ooo
+-x-
+Case 4:
+xo-
+ox-
+--x
+Case 5:
+oo-
+xxx
+---
+Case 6:
+x--
+ooo
+x--
+Case 7:
+---
+xx-
+ooo
+Case 8:
+xxx
+-oo
+---
+Case 9:
+xxx
+--o
+-o-
+Case 10:
+xo-
+x--
+xo-
+Case 11:
+o-x
+o-x
+o--
+Case 12:
+x--
+x-o
+x-o
+Case 13:
+ooo
+x--
+-x-
+Case 14:
+o-x
+-ox
+--x
+Case 15:
+o--
+-ox
+x-o
+Case 16:
+--x
+o-x
+-ox
+Case 17:
+x--
+ooo
+--x
+Case 18:
+--o
+x-o
+x-o
+Case 19:
+x-o
+x-o
+--o
+Case 20:
+xxx
+o--
+--o
+Case 21:
+o-o
+---
+xxx
+Case 22:
+x--
+oxo
+--x
+Case 23:
+x--
+x-o
+xo-
+Case 24:
+o--
+xo-
+-xo
+Case 25:
+xxx
+---
+o-o
+Case 26:
+--o
+--o
+xxx
+Case 27:
+-oo
+xxx
+---
+Case 28:
+ooo
+---
+-xx
+Case 29:
+--o
+x-o
+x-o
+Case 30:
+o-x
+o--
+ox-
+Case 31:
+xxx
+-o-
+--o
+Case 32:
+-ox
+--x
+-ox
+Case 33:
+ox-
+o--
+ox-
+Case 34:
+xo-
+xo-
+-o-
+Case 35:
+ooo
+xx-
+---
+Case 36:
+--o
+-ox
+o-x
+Case 37:
+ooo
+--x
+-x-
+Case 38:
+-ox
+xo-
+-o-
+Case 39:
+-x-
+-x-
+ooo
+Case 40:
+o-o
+xxx
+---
+Case 41:
+ox-
+ox-
+-x-
+Case 42:
+x-o
+x-o
+--o
+Case 43:
+ox-
+ox-
+-x-
+Case 44:
+--x
+ooo
+-x-
+Case 45:
+--o
+o--
+xxx
+Case 46:
+xo-
+ox-
+--x
+Case 47:
+xxx
+-o-
+o--
+Case 48:
+x--
+oxo
+--x
+Case 49:
+--o
+-ox
+ox-
+Case 50:
+--o
+o--
+xxx
+Case 51:
+-ox
+-o-
+xo-
+Case 52:
+ooo
+xx-
+---
+Case 53:
+-o-
+xox
+-o-
+Case 54:
+o-x
+xo-
+--o
+Case 55:
+x-o
+-o-
+o-x
+Case 56:
+o-x
+-o-
+x-o
+Case 57:
+xxx
+o--
+o--
+Case 58:
+xxx
+o--
+-o-
+Case 59:
+xxx
+-o-
+o--
+Case 60:
+ooo
+-x-
+-x-
+Case 61:
+xoo
+-x-
+--x
+Case 62:
+-ox
+ox-
+x--
+Case 63:
+ooo
+-xx
+---
+Case 64:
+o--
+oxx
+o--
+Case 65:
+o--
+oxx
+o--
+Case 66:
+-o-
+-o-
+xxx
+Case 67:
+x-o
+-x-
+-ox
+Case 68:
+-xo
+-o-
+o-x
+Case 69:
+-o-
+xxx
+-o-
+Case 70:
+-ox
+--x
+o-x
+Case 71:
+xxx
+-oo
+---
+Case 72:
+ooo
+-x-
+-x-
+Case 73:
+o-x
+o--
+o-x
+Case 74:
+xxx
+---
+oo-
+Case 75:
+x-o
+x-o
+--o
+Case 76:
+-x-
+x--
+ooo
+Case 77:
+o-x
+o--
+ox-
+Case 78:
+-x-
+ooo
+x--
+Case 79:
+--x
+-x-
+xoo
+Case 80:
+--o
+xox
+o--
+Case 81:
+-ox
+-ox
+--x
+Case 82:
+--x
+oox
+--x
+Case 83:
+ooo
+x--
+--x
+Case 84:
+ooo
+-x-
+--x
+Case 85:
+o--
+ox-
+ox-
+Case 86:
+-o-
+--o
+xxx
+Case 87:
+x-o
+x--
+xo-
+Case 88:
+xxx
+-o-
+-o-
+Case 89:
+x--
+ox-
+o-x
+Case 90:
+o--
+oxx
+o--
+Case 91:
+-xo
+--o
+x-o
+Case 92:
+o-x
+-x-
+x-o
+Case 93:
+ox-
+-xo
+-x-
+Case 94:
+x-o
+-ox
+o--
+Case 95:
+x--
+-xo
+o-x
+Case 96:
+--o
+--o
+xxx
+Case 97:
+o-x
+ox-
+o--
+Case 98:
+--o
+xxx
+-o-
+Case 99:
+-x-
+--x
+ooo
+Case 100:
+xo-
+-ox
+-o-
+Case 101:
+--x
+o-x
+o-x
+Case 102:
+x-o
+x--
+xo-
+Case 103:
+--o
+-o-
+xxx
+Case 104:
+-x-
+-xo
+ox-
+Case 105:
+-o-
+xo-
+-ox
+Case 106:
+-o-
+xo-
+-ox
+Case 107:
+--x
+ox-
+xo-
+Case 108:
+-xo
+x-o
+--o
+Case 109:
+xx-
+---
+ooo
+Case 110:
+-xo
+-ox
+o--
+Case 111:
+---
+o-o
+xxx
+Case 112:
+--x
+ooo
+-x-
+Case 113:
+o--
+-o-
+xxo
+Case 114:
+-o-
+--o
+xxx
+Case 115:
+o--
+-ox
+x-o
+Case 116:
+o-x
+--x
+-ox
+Case 117:
+ooo
+xx-
+---
+Case 118:
+x--
+ooo
+--x
+Case 119:
+--o
+x-o
+-xo
+Case 120:
+xxx
+o--
+--o
+Case 121:
+---
+ooo
+-xx
+Case 122:
+xxx
+--o
+--o
+Case 123:
+-xo
+xo-
+o--
+Case 124:
+xxo
+-o-
+o--
+Case 125:
+ox-
+-x-
+-xo
+Case 126:
+--o
+-ox
+o-x
+Case 127:
+x--
+xo-
+xo-
+Case 128:
+o-x
+o--
+o-x
+Case 129:
+ooo
+x--
+-x-
+Case 130:
+o--
+-ox
+x-o
+Case 131:
+--x
+oox
+--x
+Case 132:
+o-x
+o--
+o-x
+Case 133:
+--x
+ox-
+x-o
+Case 134:
+-x-
+ox-
+-xo
+Case 135:
+-xx
+ooo
+---
+Case 136:
+xo-
+xo-
+x--
+Case 137:
+ooo
+--x
+-x-
+Case 138:
+-o-
+xxx
+-o-
+Case 139:
+--x
+-xo
+xo-
+Case 140:
+-ox
+xo-
+-o-
+Case 141:
+o--
+xox
+--o
+Case 142:
+xxx
+o--
+o--
+Case 143:
+x--
+ox-
+-ox
+Case 144:
+o--
+xo-
+x-o
+Case 145:
+ooo
+--x
+--x
+Case 146:
+-x-
+ox-
+-xo
+Case 147:
+---
+-xx
+ooo
+Case 148:
+o-x
+ox-
+o--
+Case 149:
+-xo
+-x-
+-xo
+Case 150:
+o-x
+o--
+o-x
+Case 151:
+xo-
+xo-
+-o-
+Case 152:
+x-o
+-o-
+ox-
+Case 153:
+ox-
+o-x
+o--
+Case 154:
+ooo
+--x
+-x-
+Case 155:
+xxo
+-o-
+o--
+Case 156:
+-oo
+xxx
+---
+Case 157:
+ooo
+---
+-xx
+Case 158:
+-ox
+-o-
+-ox
+Case 159:
+ox-
+o-x
+o--
+Case 160:
+--x
+-ox
+o-x
+Case 161:
+xxx
+o--
+--o
+Case 162:
+--o
+-xo
+x-o
+Case 163:
+o--
+-ox
+-xo
+Case 164:
+o-x
+xo-
+--o
+Case 165:
+o-x
+-o-
+-xo
+Case 166:
+xxx
+-o-
+-o-
+Case 167:
+ox-
+o--
+o-x
+Case 168:
+-o-
+xo-
+-ox
+Case 169:
+o--
+xox
+--o
+Case 170:
+xxx
+--o
+o--
+Case 171:
+o-x
+o-x
+--x
+Case 172:
+oxo
+-x-
+-x-
+Case 173:
+-ox
+-x-
+xo-
+Case 174:
+oxx
+o--
+o--
+Case 175:
+x-o
+-x-
+-ox
+Case 176:
+---
+ooo
+x-x
+Case 177:
+-o-
+--o
+xxx
+Case 178:
+ox-
+-o-
+-xo
+Case 179:
+ooo
+---
+x-x
+Case 180:
+-o-
+-ox
+-ox
+Case 181:
+xo-
+xo-
+x--
+Case 182:
+--o
+xxx
+--o
+Case 183:
+---
+xxx
+-oo
+Case 184:
+--x
+-ox
+o-x
+Case 185:
+xxx
+o--
+-o-
+Case 186:
+-o-
+xo-
+-ox
+Case 187:
+xxx
+-o-
+o--
+Case 188:
+x-o
+x--
+x-o
+Case 189:
+xoo
+x--
+x--
+Case 190:
+---
+oo-
+xxx
+Case 191:
+ox-
+ox-
+-x-
+Case 192:
+-xo
+-o-
+ox-
+Case 193:
+-x-
+-xo
+ox-
+Case 194:
+o-x
+o--
+o-x
+Case 195:
+-ox
+-o-
+xo-
+Case 196:
+---
+-oo
+xxx
+Case 197:
+x-o
+-x-
+o-x
+Case 198:
+--o
+-xo
+x-o
+Case 199:
+x-o
+x--
+xo-
+Case 200:
+xxx
+---
+oo-
+Case 201:
+x-o
+-x-
+o-x
+Case 202:
+--x
+o-x
+o-x
+Case 203:
+--x
+-x-
+xoo
+Case 204:
+x--
+xo-
+x-o
+Case 205:
+x--
+x-o
+xo-
+Case 206:
+xo-
+x--
+x-o
+Case 207:
+-ox
+xo-
+-o-
+Case 208:
+--x
+oxo
+x--
+Case 209:
+ooo
+-x-
+-x-
+Case 210:
+xxo
+-o-
+o--
+Case 211:
+o--
+xo-
+-xo
+Case 212:
+-x-
+x--
+ooo
+Case 213:
+x--
+oxo
+--x
+Case 214:
+o--
+o--
+oxx
+Case 215:
+-o-
+xxx
+o--
+Case 216:
+xxx
+--o
+--o
+Case 217:
+--x
+ox-
+xo-
+Case 218:
+-xx
+ooo
+---
+Case 219:
+-xo
+-xo
+-x-
+Case 220:
+x--
+--x
+ooo
+Case 221:
+o-x
+-o-
+-xo
+Case 222:
+--x
+ox-
+xo-
+Case 223:
+o-x
+--x
+o-x
+Case 224:
+---
+ooo
+x-x
+Case 225:
+ooo
+x-x
+---
+Case 226:
+-xo
+-x-
+-xo
+Case 227:
+-o-
+xox
+-o-
+Case 228:
+o--
+ox-
+ox-
+Case 229:
+xxx
+-o-
+o--
+Case 230:
+x-o
+xo-
+o--
+Case 231:
+o--
+o--
+oxx
+Case 232:
+ooo
+x--
+--x
+Case 233:
+-x-
+ox-
+-xo
+Case 234:
+xxx
+o--
+-o-
+Case 235:
+-ox
+o-x
+--x
+Case 236:
+xxx
+--o
+--o
+Case 237:
+o-x
+o--
+o-x
+Case 238:
+xxx
+--o
+o--
+Case 239:
+--o
+xo-
+o-x
+Case 240:
+---
+xxx
+oo-
+Case 241:
+x--
+xoo
+x--
+Case 242:
+x-o
+-ox
+o--
+Case 243:
+o--
+o-x
+o-x
+Case 244:
+ox-
+o--
+o-x
+Case 245:
+xo-
+xo-
+x--
+Case 246:
+ox-
+-x-
+-xo
+Case 247:
+ooo
+--x
+-x-
+Case 248:
+x-o
+--o
+x-o
+Case 249:
+x-o
+xo-
+o--
+Case 250:
+xxx
+-oo
+---
+Case 251:
+xo-
+-x-
+-ox
+Case 252:
+ox-
+ox-
+-x-
+Case 253:
+o--
+--o
+xxx
+Case 254:
+o-x
+ox-
+o--
+Case 255:
+o-x
+-o-
+x-o
+Case 256:
+o--
+xo-
+-xo
+Case 257:
+x--
+ooo
+--x
+Case 258:
+xxx
+-o-
+--o
+Case 259:
+xo-
+-x-
+-ox
+Case 260:
+-x-
+-x-
+ooo
+Case 261:
+-o-
+xo-
+xo-
+Case 262:
+--o
+x-o
+x-o
+Case 263:
+-o-
+xxx
+--o
+Case 264:
+xo-
+x-o
+x--
+Case 265:
+---
+ooo
+xx-
+Case 266:
+x-o
+x--
+xo-
+Case 267:
+oxx
+o--
+o--
+Case 268:
+-oo
+xxx
+---
+Case 269:
+x--
+-xo
+o-x
+Case 270:
+--x
+ooo
+x--
+Case 271:
+x-o
+x--
+xo-
+Case 272:
+--x
+-x-
+xoo
+Case 273:
+oox
+-x-
+x--
+Case 274:
+xxx
+-o-
+o--
+Case 275:
+--o
+--o
+xxx
+Case 276:
+ooo
+---
+-xx
+Case 277:
+x--
+xoo
+x--
+Case 278:
+---
+x-x
+ooo
+Case 279:
+o--
+xo-
+x-o
+Case 280:
+-ox
+-o-
+-ox
+Case 281:
+-x-
+ooo
+-x-
+Case 282:
+o--
+o--
+xxx
+Case 283:
+-o-
+o--
+xxx
+Case 284:
+o--
+-ox
+x-o
+Case 285:
+x-o
+xo-
+x--
+Case 286:
+--x
+-x-
+xoo
+Case 287:
+---
+xxx
+o-o
+Case 288:
+x--
+x--
+xoo
+Case 289:
+x--
+x-o
+x-o
+Case 290:
+o-x
+--x
+o-x
+Case 291:
+-o-
+o--
+xxx
+Case 292:
+xo-
+xo-
+-o-
+Case 293:
+ooo
+--x
+x--
+Case 294:
+xxx
+-o-
+o--
+Case 295:
+x-o
+-ox
+o--
+Case 296:
+o--
+xxx
+-o-
+Case 297:
+oo-
+---
+xxx
+Case 298:
+--o
+xox
+o--
+Case 299:
+o-x
+o-x
+o--
+Case 300:
+o--
+oxx
+o--
+Case 301:
+-xo
+--o
+x-o
+Case 302:
+-xo
+-o-
+ox-
+Case 303:
+ox-
+o--
+ox-
+Case 304:
+ooo
+---
+xx-
+Case 305:
+xo-
+ox-
+--x
+Case 306:
+x--
+-x-
+ooo
+Case 307:
+x--
+ooo
+x--
+Case 308:
+x--
+xoo
+x--
+Case 309:
+o--
+-o-
+xxo
+Case 310:
+--x
+oox
+--x
+Case 311:
+x-o
+x--
+x-o
+Case 312:
+o--
+xxx
+o--
+Case 313:
+x--
+ooo
+-x-
+Case 314:
+xo-
+-o-
+xo-
+Case 315:
+xox
+-o-
+-o-
+Case 316:
+-o-
+xo-
+xo-
+Case 317:
+o-x
+-xo
+x--
+Case 318:
+o-x
+o-x
+o--
+Case 319:
+xxx
+-o-
+o--
+Case 320:
+xxo
+--o
+--o
+Case 321:
+x-o
+x-o
+--o
+Case 322:
+oxo
+-x-
+-x-
+Case 323:
+--x
+--x
+ooo
+Case 324:
+---
+ooo
+-xx
+Case 325:
+x--
+xo-
+xo-
+Case 326:
+xxx
+o-o
+---
+Case 327:
+--o
+-xo
+-xo
+Case 328:
+xxx
+---
+o-o
+Case 329:
+o--
+xxx
+-o-
+Case 330:
+ox-
+-x-
+-xo
+Case 331:
+o--
+oxx
+o--
+Case 332:
+---
+xxx
+oo-
+Case 333:
+xxx
+---
+o-o
+Case 334:
+--o
+o--
+xxx
+Case 335:
+xo-
+-x-
+-ox
+Case 336:
+xxx
+--o
+-o-
+Case 337:
+xoo
+-x-
+--x
+Case 338:
+-o-
+-ox
+-ox
+Case 339:
+--o
+xxx
+o--
+Case 340:
+---
+-xx
+ooo
+Case 341:
+x-o
+x-o
+--o
+Case 342:
+oox
+--x
+--x
+Case 343:
+---
+ooo
+x-x
+Case 344:
+---
+-oo
+xxx
+Case 345:
+ox-
+o--
+ox-
+Case 346:
+o-x
+-x-
+x-o
+Case 347:
+xo-
+-o-
+-ox
+Case 348:
+-ox
+-ox
+--x
+Case 349:
+-x-
+ox-
+-xo
+Case 350:
+o--
+-o-
+xxx
+Case 351:
+o--
+o--
+oxx
+Case 352:
+ooo
+---
+x-x
+Case 353:
+xxx
+o-o
+---
+Case 354:
+oox
+-x-
+x--
+Case 355:
+o--
+-o-
+xxo
+Case 356:
+xoo
+-x-
+--x
+Case 357:
+-ox
+-o-
+-ox
+Case 358:
+--x
+--x
+ooo
+Case 359:
+x--
+xo-
+xo-
+Case 360:
+o-x
+--x
+o-x
+Case 361:
+ooo
+-x-
+-x-
+Case 362:
+o-x
+-o-
+x-o
+Case 363:
+o--
+xxx
+o--
+Case 364:
+-x-
+ox-
+ox-
+Case 365:
+xoo
+-x-
+--x
+Case 366:
+ooo
+-x-
+-x-
+Case 367:
+x-o
+xo-
+o--
+Case 368:
+x-o
+-ox
+o--
+Case 369:
+x--
+xo-
+x-o
+Case 370:
+o--
+ox-
+ox-
+Case 371:
+x--
+-x-
+ooo
+Case 372:
+-xo
+--o
+-xo
+Case 373:
+x-x
+ooo
+---
+Case 374:
+xo-
+x--
+xo-
+Case 375:
+--x
+-xo
+x-o
+Case 376:
+-o-
+xo-
+xo-
+Case 377:
+x--
+x-o
+x-o
+Case 378:
+-o-
+-ox
+-ox
+Case 379:
+xo-
+xo-
+-o-
+Case 380:
+o-x
+-xo
+x--
+Case 381:
+x--
+-x-
+ooo
+Case 382:
+-ox
+-x-
+xo-
+Case 383:
+xxx
+oo-
+---
+Case 384:
+xo-
+-x-
+-ox
+Case 385:
+xo-
+x--
+xo-
+Case 386:
+x--
+ooo
+-x-
+Case 387:
+--o
+xxx
+o--
+Case 388:
+xxx
+--o
+-o-
+Case 389:
+ox-
+o-x
+o--
+Case 390:
+x--
+ooo
+-x-
+Case 391:
+o-x
+o-x
+--x
+Case 392:
+-xx
+ooo
+---
+Case 393:
+ox-
+ox-
+-x-
+Case 394:
+o--
+xo-
+-xo
+Case 395:
+ox-
+-ox
+--o
+Case 396:
+ox-
+-x-
+ox-
+Case 397:
+x-o
+-o-
+ox-
+Case 398:
+xxx
+o--
+-o-
+Case 399:
+-ox
+-ox
+-o-
+Case 400:
+x--
+x-o
+xo-
+Case 401:
+o--
+xxx
+o--
+Case 402:
+-ox
+-ox
+--x
+Case 403:
+xo-
+ox-
+--x
+Case 404:
+--o
+xxx
+o--
+Case 405:
+x-o
+x--
+x-o
+Case 406:
+-xo
+-xo
+--o
+Case 407:
+o--
+xox
+--o
+Case 408:
+ox-
+o--
+ox-
+Case 409:
+-x-
+-x-
+ooo
+Case 410:
+-o-
+o--
+xxx
+Case 411:
+x--
+-x-
+ooo
+Case 412:
+xo-
+-o-
+xo-
+Case 413:
+x--
+x--
+ooo
+Case 414:
+xxx
+oo-
+---
+Case 415:
+--x
+ox-
+x-o
+Case 416:
+o-x
+-x-
+x-o
+Case 417:
+--x
+--x
+ooo
+Case 418:
+oxo
+-x-
+-x-
+Case 419:
+ooo
+x-x
+---
+Case 420:
+ooo
+-x-
+--x
+Case 421:
+--o
+-ox
+o-x
+Case 422:
+o-x
+o-x
+--x
+Case 423:
+o-x
+--x
+-ox
+Case 424:
+x-o
+x--
+x-o
+Case 425:
+o-x
+ox-
+x--
+Case 426:
+x-o
+x-o
+x--
+Case 427:
+---
+oo-
+xxx
+Case 428:
+-x-
+-x-
+ooo
+Case 429:
+o--
+xox
+--o
+Case 430:
+ooo
+--x
+--x
+Case 431:
+o-x
+-o-
+x-o
+Case 432:
+-xo
+ox-
+-x-
+Case 433:
+ooo
+---
+x-x
+Case 434:
+x-o
+--o
+x-o
+Case 435:
+o--
+--o
+xxx
+Case 436:
+--o
+-o-
+oxx
+Case 437:
+---
+-oo
+xxx
+Case 438:
+--o
+xxo
+--o
+Case 439:
+ooo
+---
+x-x
+Case 440:
+--o
+-o-
+xxx
+Case 441:
+---
+oo-
+xxx
+Case 442:
+-x-
+ox-
+-xo
+Case 443:
+-ox
+-o-
+xo-
+Case 444:
+--x
+ooo
+-x-
+Case 445:
+x--
+ooo
+x--
+Case 446:
+--o
+-xo
+x-o
+Case 447:
+xo-
+ox-
+--x
+Case 448:
+o-x
+-x-
+xo-
+Case 449:
+xxo
+-o-
+o--
+Case 450:
+---
+-xx
+ooo
+Case 451:
+x-x
+---
+ooo
+Case 452:
+--o
+--o
+xxo
+Case 453:
+o--
+o--
+oxx
+Case 454:
+x-o
+x--
+xo-
+Case 455:
+-xo
+-o-
+o-x
+Case 456:
+--o
+xxo
+--o
+Case 457:
+x--
+x-o
+x-o
+Case 458:
+x-x
+ooo
+---
+Case 459:
+-o-
+xxx
+-o-
+Case 460:
+-xo
+x-o
+--o
+Case 461:
+ooo
+x--
+-x-
+Case 462:
+oox
+--x
+--x
+Case 463:
+o-x
+--x
+o-x
+Case 464:
+-o-
+-o-
+xox
+Case 465:
+xxx
+---
+oo-
+Case 466:
+---
+-xx
+ooo
+Case 467:
+x-o
+--o
+-xo
+Case 468:
+x-o
+x--
+xo-
+Case 469:
+o-x
+xo-
+--o
+Case 470:
+x-o
+-o-
+o-x
+Case 471:
+ox-
+-x-
+ox-
+Case 472:
+-x-
+ox-
+-xo
+Case 473:
+x-o
+-xo
+--o
+Case 474:
+o-x
+-x-
+xo-
+Case 475:
+o--
+-o-
+xxx
+Case 476:
+o--
+xo-
+x-o
+Case 477:
+xx-
+ooo
+---
+Case 478:
+-x-
+--x
+ooo
+Case 479:
+ooo
+--x
+x--
+Case 480:
+--x
+ooo
+-x-
+Case 481:
+--o
+xox
+o--
+Case 482:
+x--
+-x-
+oox
+Case 483:
+ooo
+--x
+-x-
+Case 484:
+x--
+x--
+xoo
+Case 485:
+x-o
+xo-
+x--
+Case 486:
+-xx
+ooo
+---
+Case 487:
+-x-
+-xo
+-xo
+Case 488:
+xxx
+--o
+--o
+Case 489:
+xo-
+ox-
+--x
+Case 490:
+o--
+ox-
+o-x
+Case 491:
+oxx
+o--
+o--
+Case 492:
+o--
+o-x
+ox-
+Case 493:
+xo-
+ox-
+--x
+Case 494:
+ox-
+-x-
+ox-
+Case 495:
+xxx
+---
+oo-
+Case 496:
+xo-
+xo-
+-o-
+Case 497:
+x-o
+-xo
+--x
+Case 498:
+--x
+ooo
+x--
+Case 499:
+-o-
+xo-
+xo-
+Case 500:
+o--
+xox
+--o
